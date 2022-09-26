@@ -1,0 +1,19 @@
+
+m
+java:S1192'"RDefine a constant instead of duplicating this literal "admin/statistical" 6 times.(‡É¹âýÿÿÿÿ
+l
+java:S1192%"QDefine a constant instead of duplicating this literal "listReportCommon" 6 times.(¸ƒÍîøÿÿÿÿ
+b
+java:S1192#"LDefine a constant instead of duplicating this literal "orderDetail" 6 times.(ÕîÖä
+‰
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¨ã¸œúÿÿÿÿ
+‰
+java:S1130,"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(‰øîšüÿÿÿÿ
+‰
+java:S1130:"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ƒ”„¿ÿÿÿÿÿ
+„
+java:S1130H"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¼±Áù
+‰
+java:S1130V"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ðŽåŽýÿÿÿÿ
+„
+java:S1130d"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(í‘Ðö

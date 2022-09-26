@@ -1,0 +1,10 @@
+
+h
+java:S1192,"MDefine a constant instead of duplicating this literal "web/register" 3 times.(Õ¦’…ùÿÿÿÿ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÝ”†
+U
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(â„ä
+?
+java:S2140:")Use "java.util.Random.nextInt()" instead.(ûÝ”†
+[
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(§ýÔºþÿÿÿÿ

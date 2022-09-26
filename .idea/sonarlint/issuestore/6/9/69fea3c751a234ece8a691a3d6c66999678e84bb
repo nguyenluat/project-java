@@ -1,0 +1,7 @@
+
+[
+java:S2259!"EA "NullPointerException" could be thrown; "product" is nullable here.(ץß‘ֹ
+\
+java:S2387"A"productRepository" is the name of a field in "CommomController".(ו«תÿÿÿÿ
+V
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ˆוץ·

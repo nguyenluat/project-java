@@ -1,0 +1,19 @@
+
+Z
+java:S12265"DIntroduce a new variable instead of reusing the parameter "product".(¬ãÖ
+[
+java:S2259,"EA "NullPointerException" could be thrown; "product" is nullable here.(·í¥
+`
+java:S22596"EA "NullPointerException" could be thrown; "product" is nullable here.(ùÓ–ıÿÿÿÿ
+\
+java:S2387"A"productRepository" is the name of a field in "CommomController".(åŒ«úÿÿÿÿ
+[
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.( ŞŞüÿÿÿÿ
+V
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(ûÁ°å
+V
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(ûÁ°å
+V
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(¯Áë¡
+V
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(¯Áë¡

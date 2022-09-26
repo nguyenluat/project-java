@@ -1,0 +1,21 @@
+
+o
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë¶Íí
+o
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë¶Íí
+_
+java:S1192;"IDefine a constant instead of duplicating this literal "web/shop" 3 times.(¿·ó½
+d
+java:S11929"IDefine a constant instead of duplicating this literal "products" 3 times.(¸©Òıÿÿÿÿ
+z
+java:S1488N"dImmediately return this expression instead of assigning it to the temporary variable "productPages".(ë¶Íí
+z
+java:S1488z"dImmediately return this expression instead of assigning it to the temporary variable "productPages".(ë¶Íí
+\
+java:S2387!"A"productRepository" is the name of a field in "CommomController".(åŒ«úÿÿÿÿ
+V
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(º±
+[
+java:S4684W"@Replace this persistent entity with a simple POJO or DTO object.( ™©›ùÿÿÿÿ
+W
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ò‰‰¹

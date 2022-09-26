@@ -1,0 +1,13 @@
+
+v
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ý×îñ8’‘Ô¹¨0
+
+java:S1488\"bImmediately return this expression instead of assigning it to the temporary variable "orderPages".(ý×îñ8“‘Ô¹¨0
+[
+java:S2387%">"userRepository" is the name of a field in "CommomController".( ØæÒ8‚’Ô¹¨0
+b
+java:S46841"@Replace this persistent entity with a simple POJO or DTO object.(¿ÄœÇÿÿÿÿÿ8Š’Ô¹¨0
+]
+java:S4684b"@Replace this persistent entity with a simple POJO or DTO object.(ˆž™ò8â’Ô¹¨0
+]	java:S125m"<This block of commented-out lines of code should be removed.(›éûóøÿÿÿÿ8ò’Ô¹¨0
+X	java:S125o"<This block of commented-out lines of code should be removed.(€ðƒÝ8þ’Ô¹¨0
